@@ -1,0 +1,1 @@
+I saw this video on social media where the guy uses Gemini AI in his code to chat with it via code. I thought maybe we can also do a small project around this to gain some knowledge about the AI bots. 
