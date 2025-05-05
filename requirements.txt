@@ -1,0 +1,30 @@
+# Core scraping
+requests
+beautifulsoup4
+lxml
+
+# Optional: if you use Scrapy instead of requests + bs4
+# scrapy
+
+# Data processing
+pandas
+numpy
+duckdb
+pyarrow
+
+# Forecasting
+statsmodels
+scikit-learn
+
+# Visualization
+streamlit
+plotly
+geopandas  # if you're using geographical mapping
+
+# Utility
+tqdm
+python-dotenv  # if you manage secrets like API keys
+
+# Optional for debugging / dev
+ipython
+jupyter
