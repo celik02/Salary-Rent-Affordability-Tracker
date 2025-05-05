@@ -46,7 +46,7 @@ Relocation insights for:
 ### 1. Clone the repo
 
 ```bash
-git clone {url}
+git clone https://github.com/celik02/Salary-Rent-Affordability-Tracker.git
 ```
 
 ### 2. Install dependencies
